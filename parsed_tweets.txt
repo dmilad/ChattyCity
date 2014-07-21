@@ -1,0 +1,452 @@
+tstamp	src_city_place	src_city_user	src_city	dest_city	tweet	sentiment
+Tue Jul 08 01:17:34 +0000 2014	None	u'Cleveland Browns Town Ohio '	cleveland	cleveland	u'RT @CLEsportsTalk: According to an NBA source, LeBron would wear the number 32 if he returned to Cleveland.'	0.0
+Tue Jul 08 01:17:34 +0000 2014	None	None	None	None	u'http://t.co/rcvVDc8RU1 baby :('	-0.75
+Tue Jul 08 01:17:34 +0000 2014	None	u'Miami/Fort Lauderdale Area'	miami	new york	u"RT @dkberman: BREAKING: New York's 48-store CRUMBS cupcake empire is to close and cease all operations. http://t.co/XFQf0mUDoY"	0.136363636364
+Tue Jul 08 01:17:34 +0000 2014	None	u'\xdcT: 41.769683,-87.845665'	None	chicago	u'RT @ChicagoBreaking: Emanuel task force: Raise Chicago minimum wage to $13 an hour by 2018 http://t.co/DC0HvrJijU'	0.0
+Tue Jul 08 01:17:34 +0000 2014	None	None	None	los angeles	u'RT @El_Komander1: \xa1Todos est\xe1n invitados al Nokia Theatre de Los Angeles este 19 de Julio! http://t.co/s1CPS8uA7U'	0.0
+Tue Jul 08 01:17:34 +0000 2014	None	u'Argentina'	None	mesa	u'RT @wersogay: QUERO GIFS DA MARINA IMITANDO UM PINGUIM NA MINHA MESA EM 5 SEGUNDOS VAMO'	0.0
+Tue Jul 08 01:17:34 +0000 2014	None	u'venezuela'	None	san francisco	u'RT @Baneskin: Gente que hace Escuela: Fundaci\xf3n Valle de San Francisco (+video) http://t.co/OnIA3JNZgq'	0.0
+Tue Jul 08 01:17:34 +0000 2014	None	None	None	new york	u".@robertAbooey RT @dkberman BREAKING: New York's 48-store CRUMBS cupcake empire is to close and cease all operations. http://t.co/kSLw6DPvFP"	0.136363636364
+Tue Jul 08 01:17:34 +0000 2014	None	u'M\xe9xico\xb0\xb0\xb0\xb0\xb0'	None	None	u'RT @Carlos_dealva: @gadiel_jimenez jajaja me hiciste el dia, pero ya no vendo avon, lo de hoy es price shoes jajaja luego te paso el catalo\u2026'	0.0
+Tue Jul 08 01:17:34 +0000 2014	None	u'Bizerkeley, CA'	None	chicago	u'RT @JCULLI: Ya rap music is definitely influencing a lot of these shootings in Chicago. Shit is retarded. You gotta understand teens is sho\u2026'	-0.1
+Tue Jul 08 01:17:34 +0000 2014	None	u'Fresno. CA Alumni Apache'	fresno	fresno	u'RT @jpsalinthone: @HiddenCash had Fresno like http://t.co/sXQ5d6qDWO'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	miami	u'03/07/2014 \nJustin in Miami with his fans, trouble for the party in LA\nJustin a Miami con i suoi fan, guai per i party a LA'	-0.2
+Tue Jul 08 01:17:35 +0000 2014	None	u'817 Texas'	None	miami	u'@cole_mentzel no way Miami can get him now'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	san francisco	u"RT @CapitalOne: You always wanted to see San Francisco Bay, and with Venture's #YesMiles, you can fly any day. http://t.co/pr70NTjZAY"	0.8
+Tue Jul 08 01:17:35 +0000 2014	None	u'Espa\xf1a'	None	new york	u'LA IMAGEN VINTAGE DE HOY: New York City. Sammy Davis Jr.  http://t.co/CRdzXVSD0a'	0.136363636364
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	austin	u"Austin is taking forever to reply and I'm getting angry \U0001f624"	-0.5
+Tue Jul 08 01:17:35 +0000 2014	None	u'North Carolina, USA'	None	denver	u"RT @Matt9Duchene: See it's official now so a big welcome to Denver to Max Noreau! He and I won a Spengler Cup, played in Ambri-Piotta toget\u2026"	0.5
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	columbia	u'Columbia has scored the most goals from a left foot thus far in the World Cup, with 8.\n#NoRight'	0.2
+Tue Jul 08 01:17:35 +0000 2014	None	u'Rock Hill, SC'	None	charlotte	u'RT @RockHillSCCity: Map showing outage out of Charlotte Ave substation to about 1300 customers. Checking on it. @GrouchosRKH @subguy'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'San Diego, CA'	san diego	seattle	u'RT @fakedansavage: Getting legally high in Seattle tomorrow? @BJeanClement has some food recommendations for your high dining pleasure: htt\u2026'	0.16
+Tue Jul 08 01:17:35 +0000 2014	None	u'USA'	None	jackson	u'RT @fidofinder: Lost dog, Ruppy, in Jacksonville, FL US (32277) http://t.co/dqcXKGIjkh #lostdog'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'At The Top '	None	columbus	u'Columbus Short Get\u2019s Arrested over The Fourth of July\xa0Weekend. http://t.co/VtUq2OC0EJ'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'brooklyn '	None	portland	u'I want to move to Portland'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'Entre Rios'	None	miami	u'Con lo qie les pagaron para ir ahi comen 8 a\xf1os avanandose las bolas es miami'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	san diego	u'RT @LutzElle: Awesome!! @YECdotcom: VIKINGS Returns to Raid San Diego Comic-Con 2014: @HistoryVikings http://t.co/E09e7iFMkF'	1.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'Philadelphia / Aruba'	philadelphia	baltimore	u'Beyonc\xe9 is not wearing her wedding ring in Baltimore. Oh boy. #ticketsales'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'SOUTH MEXICO CITY'	None	new york	u'RT @nokillcoalition: New York  PLEASE SHARE TO SAVE http://t.co/r9ZvLX7wAy'	0.136363636364
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	None	u'\xbfCrees en el amor a primera vista?, o paso otra vez?\u263a\u263a.'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'St. Louis, MO'	st. louis	st. louis	u'#Cardinals Tweets: Pulling the tarp in St. Louis. Delay started at 8:14 pm Central Time http://t.co/ORX3vySqrd #MLB http://t.co/4hcbYnuIqc'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'Chicago, IL'	chicago	jackson	u"I'm shocked--SHOCKED-- that Edwin Jackson gave up the go-ahead run as soon as the Cubs tied the game."	-0.4
+Tue Jul 08 01:17:35 +0000 2014	None	u'Bangi'	None	salem	u'Sambal Ikan Bilis Kering Riqzmie by Salem Abd Khalid on Prezi http://t.co/tElmMu3whb'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	olympia	u"RT @Nabila75020: @KarismatikKenza 28 ans 5 albums Disque d'or/Platine/Double platine des tourn\xe9es a guichet ferm\xe9, 1 Olympia, 2 Z\xe9nith de P\u2026"	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	washington	u'@imaginator1dx anna would you ever come to Washington or Oregon?\U0001f60d'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'YO WET TWITTER FANTASY '	None	detroit	u'\U0001f51d\U0001f6b6#BOSS_UP R #BOW_DOWN #ROLL W/DA FN #FINE$T&gt; @SkandoaCrook @CNiKKi_Moe @DramaFreeDiva @Jobstown12345 #DETROIT  #TFB\U0001f4af #RT2GAIN_FAST \U0001f51d\U0001f6b6"'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	None	None	columbus	u'RT @NYDailyNews: Do you know this cutie? Her ma left her at the Columbus Circle station &amp; jumped on the subway. http://t.co/j1ICf4DdUt http\u2026'	0.0
+Tue Jul 08 01:17:35 +0000 2014	None	u'Los Angeles'	los angeles	san diego	u"Here's a highlight video i created from a random week of camp I did in San Diego. http://t.co/57HFOov5Vs"	-0.5
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	los angeles	u'\u201c@balanceandcomp: Los Angeles with @ladisputeband on 8/25 at El Rey Theatre. Tickets on sale this Friday (7/11). http://t.co/HFNvn8t174\u201d \U0001f631\U0001f631\U0001f631'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	u'Maryland'	None	dallas	u'RT @ussoccer_acad: PDA joins Bethesda-Olney and FC Dallas in LA for the #AcademyFinals. #OpportunityKnocks http://t.co/aowCcAYTy7'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	u'Denver, CO'	denver	denver	u'RT @MikeNelson247: Clouds building over #Denver as storms begin to form! @DenverChannel @stormshieldapp #cowx should get busy soon! http://\u2026'	0.125
+Tue Jul 08 01:17:36 +0000 2014	None	u'durango'	None	detroit	u"RT @nytimes: Map: Detroit's once-prosperous North End is checkered with vacant properties and lots http://t.co/fAxorEbNSD http://t.co/y9CRY\u2026"	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	u'Seminole, FL'	None	las vegas	u'RT @RomeTrav: As soon as I land in Las Vegas first stop in and out burger http://t.co/ESc1jYFQ7b'	0.25
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	None	u'RT @telefe_com: Mira LO QUE PASO EN EL PENULTIMO CAPITULO y LO QUE PASARA EN EL FINAL de #AvenidaBrasil aca: https://t.co/PZpCYeqfEt http:/\u2026'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	u'Porto, Portugal'	None	new york	u'Potential buyer of New York City Opera objects to delays http://t.co/4Ro8yUra8e #entretainment'	0.0681818181818
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	chicago	u"@thetartag @samzigman there's no way he'll go to Chicago. He would want a championship team not a handicapped PG with a bum as a center"	-0.1
+Tue Jul 08 01:17:36 +0000 2014	None	u'Raleigh, NC'	raleigh	raleigh	u'RT @beincarolina: Great points by @TriBizTech: Why Raleigh should top this tech jobs list http://t.co/jPwN9gCwMr #InnovateRAL'	0.65
+Tue Jul 08 01:17:36 +0000 2014	None	u'Grande Borne '	None	charlotte	u'AHAHAHHAHAHAHAHAHAHAHA JSAVAI PAS CHARLOTTE ELLE \xc9TAIS LOURDE COMME \xc7A'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	u'Atlanta, Georgia, USA'	atlanta	atlanta	u'#Atlanta #Jobs Front Office Supevisor -Wyndham Atlanta Galleria at Wyndham Vacation Resorts... http://t.co/tcY4H8YqsY #Job #AtlantaJobs'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	columbia	u'Good luck Clay leaving for Columbia...going to miss you goof!! Do work!!$$$ http://t.co/u6BNa8bN5k'	1.0
+Tue Jul 08 01:17:36 +0000 2014	None	u'Cape Town SA'	None	new york	u'RT @stugillard: .@miaomiao0319 we wanted an interesting look and we never shot there before - can you tell what is New York ? #batb #DejaVu'	0.318181818182
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	tulsa	u'American Idol Live tickets http://t.co/MIQHMIvChi for Jul 30 at Brady Theater in Tulsa OK #americanidollive'	0.212121212121
+Tue Jul 08 01:17:36 +0000 2014	None	u'Bellevue, WA'	None	washington	u'@openroadb4me @priestoso @TheWrldWanderer I really like Winthrop for Eastern Washington! #RamblrChat'	0.25
+Tue Jul 08 01:17:36 +0000 2014	None	u'Matarraque city'	None	mesa	u'RT @diogomfd: Tirava aquela mesa onde supostamente estudo do meu quarto e metia l\xe1 um mini-frigor\xedfico, muito mais \xfatil'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	madison	u'RT @tbhcarterfans: to anyone who ships hayes and madison because I just saw someone say they do in my tl http://t.co/nbPUsTljrS'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	long beach	u'In the vip line for Guardians of the Galaxy. (@ Edwards Long Beach Stadium 26 &amp; IMAX) https://t.co/3FQ53fAtwr'	-0.05
+Tue Jul 08 01:17:36 +0000 2014	None	u'Lagos | Benin City'	None	new york	u'Potential buyer of New York City Opera objects to delays http://t.co/OY0cGWGc0x'	0.0681818181818
+Tue Jul 08 01:17:36 +0000 2014	None	u'Atlanta Ga'	atlanta	atlanta	u'La celebracion de nuestra independencia COLOMBIANA en Atlanta DOMINGO 20 DE JULIO \n\n******"SOMOS... http://t.co/0kijpxswVt'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	None	u'Ver algo que te rompe el alma, tragartelo y hacer de cuenta que no paso nada.'	0.0
+Tue Jul 08 01:17:36 +0000 2014	None	u'\u0642\u0644\u0628 \u2665 \u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a '	None	new york	u'"@GreatOldPics: New York, 1968 http://t.co/EzgpTSzyb0"'	0.136363636364
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	washington	u'Watch Baltimore Orioles - Washington Nationals MLB Live http://t.co/sR39OqNn2v'	0.136363636364
+Tue Jul 08 01:17:36 +0000 2014	None	None	None	new york	u'Potential buyer of New York City Opera objects to delays http://t.co/TQc33AHIx4'	0.0681818181818
+Tue Jul 08 01:17:36 +0000 2014	None	u'wherever marge is/band hall'	None	charleston	u'RT @margaretc96: South Carolina + beach + best friend = happiness @ Folly Beach, Charleston, South Carolina. http://t.co/g8Iq700jMA'	0.85
+Tue Jul 08 01:17:36 +0000 2014	None	u'Indonesia'	None	new york	u'#teamfollowback Potential buyer of New York City Opera objects to delays http://t.co/8jHJjdVYzV #followmejp'	0.0681818181818
+Tue Jul 08 01:17:37 +0000 2014	None	u'Puerto Rico'	None	chicago	u'#MILB- Los Chicago Cubs dejan en libertad al lanzador boricua Julio Rodriguez.'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	None	None	new york	u'Potential buyer of New York City Opera objects to delays http://t.co/1tjE4YgSFj'	0.0681818181818
+Tue Jul 08 01:17:37 +0000 2014	None	u'Indianapolis, IN'	indianapolis	indianapolis	u'#Job #Indianapolis Brand Advocate: Indianapolis The Job Window is seeking an enthusiastic and motivated Brand ... http://t.co/nsSDuZfg1M'	0.6
+Tue Jul 08 01:17:37 +0000 2014	None	u'ATLANTA // VA // BROOKLYN'	atlanta	atlanta	u'RT @Clearly___: You do NOT wanna miss this one ... Fuego is the only place to be with the baddest in Atlanta ! \U0001f495\U0001f525\U0001f495\U0001f525 #GirlsNightOutATL http:\u2026'	0.05
+Tue Jul 08 01:17:37 +0000 2014	None	u'Pennsylvania'	None	austin	u'RT @Chewster2e: Watch + smile Austin \u2661 water @risingdove https://t.co/zBhAudOfy0 PLEASE HELP US FIND AUSTIN A WONDERFUL FOREVER HOME http:/\u2026'	0.65
+Tue Jul 08 01:17:37 +0000 2014	None	u'NAU Class of 2018'	None	seattle	u"if anyone's in seattle could you be a peach and bring me some of ivars world famous clam chowder in a bread bowl pls &amp; ty"	0.5
+Tue Jul 08 01:17:37 +0000 2014	None	u'Indianapolis, IN'	indianapolis	indianapolis	u'#Job #Indianapolis Client Relations Assistant: Indianapolis The Job Window is looking to fill a new opportunit... http://t.co/u7lxQFloxo'	0.136363636364
+Tue Jul 08 01:17:37 +0000 2014	None	None	None	chicago	u'RT @chancetherapper: Headlining Lollapalooza in Chicago Sunday night August 3rd at 8:30pm FREE LIVE WEB BROADCAST AVAILABLE\u2026 http://t.co/y5\u2026'	0.178787878788
+Tue Jul 08 01:17:37 +0000 2014	None	u'Rio de Janeiro, RJ'	None	helena	u'Helena Ranaldi e Gianecchini distribuindo beleza na minha tv, t\xf4 at\xe9 ofendida    Vai Ter Casamento Clarina Sim'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	u'19114'	None	philadelphia	u'@RodeoChat 19114.  Philadelphia. Woo hoo'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	u'Indianapolis, IN'	indianapolis	indianapolis	u'#Job #Indianapolis Special Events Assistant: Indianapolis The Job Window is seeking an entry level candidate t... http://t.co/q7d7B2p4VY'	0.357142857143
+Tue Jul 08 01:17:37 +0000 2014	None	u'Cordoba-Argentina'	None	None	u'Weeena Mama Lucinda!!! Paso de un tiradero a usar una tablet en el Luna Park #AvenidaBrasil'	0.0
+Tue Jul 08 01:17:37 +0000 2014	u'miami'	u'Miami, FL'	miami	miami	u'Working on some tunes and practicing beats @ Miami, Florida http://t.co/aX4EAPjBAD'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	u'Portland, OR'	portland	washington	u'Retailers ready to sell pot in Washington State: The prohibition against selling pot on the retail market is over... http://t.co/2zYbsbbuZs'	0.2
+Tue Jul 08 01:17:37 +0000 2014	None	u'Bloomfield Hills, MI'	None	detroit	u'Traveler with Knife \u2018Artfully Concealed\u2019 in Shoe Detained at Detroit Airport http://t.co/RZNUEQKaSI'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	None	None	helena	u'RT @OficialBHTRANS: 22h15 Tr\xe2nsito bom na P\xe7a Raul soares, no Elevado D. Helena Greco, na Av. Pedro II, na Av. Carlos Luz.'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	u'Indianapolis, IN'	indianapolis	indianapolis	u'#Job #Indianapolis CDL Truck Driver - Midwest Regional Fleet - Meat Distribution: Greenwood CDL-A Truck Driver... http://t.co/Z1l1wiCup7'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	u'liam boy since 17.03.2011'	None	mesa	u'RT @gordinhodadepre: Comer com o prato apoiado na barriga, uma arte que poucos conseguem. Ser gordo tem l\xe1 suas vantagens, mesa \xe9 pros frac\u2026'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	u'Indianapolis, IN'	indianapolis	indianapolis	u'#Job #Indianapolis Training Coordinator: Indianapolis Job Title: Training Coordinator, Location: Indianapolis,... http://t.co/V9MDfAfQTH'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	u'Tobacco Road'	None	memphis	u'Man, the dad from Harry and the Hendersons is in Memphis Belle and I still hated this growing up?'	-0.9
+Tue Jul 08 01:17:37 +0000 2014	None	None	None	madison	u'Hiking Mt. Madison and maybe Mt. Adams tomorrow'	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	None	None	hartford	u"@MileyCyrus it's me again. She has been to all of you will see us you tube search the climb in Hartford. We are the ones with flowers for u"	0.0
+Tue Jul 08 01:17:37 +0000 2014	None	u'Squaw Valley, CA'	None	fresno	u'RT @MaMoosie: Hey #Fresno (Map of Woodward Park)  3 Ponds &amp; stream -Good luck finding @HiddenCash #BeKind #PayItForward http://t.co/90FOOpf\u2026'	0.7
+Tue Jul 08 01:17:37 +0000 2014	None	u'Miami, Florida'	miami	miami	u'Initial unemployment claims drop http://t.co/vBr8y06SZH #miami'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	u'30314 '	None	atlanta	u"RT @Rivablue: aka Rivablue.....Listen to WIN tickets with us Morris Baxter, Jamal Ahmad  Jazz 91.9 WCLK, Atlanta's Jazz Station... http://t\u2026"	0.8
+Tue Jul 08 01:17:37 +0000 2014	None	u'Santo Domingo'	None	san francisco	u"RT @CapitalOne: You always wanted to see San Francisco Bay, and with Venture's #YesMiles, you can fly any day. http://t.co/pr70NTjZAY"	0.8
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	columbus	u'RT @NYDailyNews: Do you know this cutie? Her ma left her at the Columbus Circle station &amp; jumped on the subway. http://t.co/j1ICf4DdUt http\u2026'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	None	u'Tremendas cumbiachas me paso el nano jaja, que personaje !! @JuanCruzDaveiga'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	miami	u"RT @EstadisticasNBA: LeBron quita 'Miami' de su perfil y comparte 'LaFamilia' con Irving y T.Thompson. \xbfVuelta a Cavs? http://t.co/hJurhPJm\u2026"	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	u'Texas'	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	los angeles	u'rezando pro justin estar em los angeles enquanto eu estiver la \U0001f64f'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	u'Texas'	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	u'818 | CA'	None	jackson	u'Man, I miss Michael Jackson.. #KingOfPop'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	u'Nashville, TN'	nashville	nashville	u'RT @DarringtonsTrip: \U0001f629"@iLuvNinaRoss: Nashville females are probably the pettiest and messiest women I\'ve ever encountered in life."'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	san francisco	u"RT @CapitalOne: You always wanted to see San Francisco Bay, and with Venture's #YesMiles, you can fly any day. http://t.co/pr70NTjZAY"	0.8
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	u'\u2605\u2022\u25c7 \u221eM\u0454j!c\xf6\u300b\u2022\u2022\u2661'	None	austin	u'RT @Coliseo_Yucatan: No te quedes sin ver a Austin Mahone, por primera vez en M\xe9rida! Adquiere tus boletos a trav\xe9s del siguiente enlace: h\u2026'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	u'Newport l Boston'	boston	san francisco	u'I want to go to San Francisco so bad'	-0.7
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	atlanta	u"RT @Lyrical_high_: I live in Atlanta and I still ain't been on that Ferris wheel lol #LHHATL"	0.468181818182
+Tue Jul 08 01:17:38 +0000 2014	None	u'Caracas, Venezuela'	None	washington	u'RT @RunRunesWeb: Washington da licencias para venta legal de marihuana - http://t.co/3rw8KDp8UK'	0.2
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	milwaukee	u'RT @KalinWhite: Milwaukee had me like \U0001f60d\n#Freckles \U0001f633 http://t.co/WuBrwpORX0'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	madison	u'xxx clips : Madison and her big tits fight to be TOTY  #sex #movie #hot #iPhone http://t.co/7SIZ36uDPo'	0.125
+Tue Jul 08 01:17:38 +0000 2014	None	u'USA'	None	washington	u'Washington Has Gone Completely Mad! http://t.co/qy8tAIXWjH'	-0.78125
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	houston	u'RT @_PatJohnson_: FREE TOURS SEE THE USA Fly to California, see #Murrieta by bus, then fly to Houston, then fly to #Murrietta, then... http\u2026'	0.7
+Tue Jul 08 01:17:38 +0000 2014	None	u'Atlanta, Georgia, USA'	atlanta	atlanta	u'#Atlanta #Jobs Traffic Manager with agency exp for ASAP C2H job in Atlanta! at The Creative... http://t.co/y7j5kX5M0l #Job #AtlantaJobs'	0.5
+Tue Jul 08 01:17:38 +0000 2014	None	u'Franklin, IN'	None	cleveland	u'Cleveland is threatening to make it a ball game babay'	-0.4
+Tue Jul 08 01:17:38 +0000 2014	None	u'Asgard'	None	arlington	u'Anybody going to see Beyonc\xe9 in Arlington?'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	columbus	u'RT @NYPDnews: Help us ID this child. Abandoned at 59 St &amp; Columbus Ave subway stn on 7/7. Last seen w/ F/20s. Call #800577TIPS http://t.co/\u2026'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	None	u'La dulzura se convirti\xf3 en amargura, el calor paso a ser lo mas frio, la compa\xf1ia paso a ser soledad y el deseo se convirti\xf3 en orgullo'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	chicago	u'I seriously think Chicago is the the best fit for Melo...'	0.355555555556
+Tue Jul 08 01:17:38 +0000 2014	None	u'Jah Bless'	None	augusta	u'da lapa at\xe9 augusta'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	cleveland	u'@BraydonVatter1 its in cleveland right?'	0.285714285714
+Tue Jul 08 01:17:38 +0000 2014	None	u'with T'	None	miami	u'RT @_blavkanese: "@IAmThe_Ceo: Miami Killing Rate Just Rising \U0001f612"'	0.0
+Tue Jul 08 01:17:38 +0000 2014	u'los angeles'	u'hollywood'	los angeles	los angeles	u"I'm at Target (Beverly Connection) (Los Angeles, CA) w/ 2 others https://t.co/eB7uTyTQ1W"	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	u'Pompano Beach, FL'	None	miami	u"Our July issues are all around town! Stop by Auto Tech and Body, Inc., Miami Blues, Razzleberry's Ice Cream, Pink... http://t.co/3UWAozQJ2j"	-0.1
+Tue Jul 08 01:17:39 +0000 2014	None	None	None	washington	u'o mejor que llegue el verano para irme a cordoba con zumerland y a washington con uma\nsigo fantaseando BESOS ROSA'	0.0
+Tue Jul 08 01:17:38 +0000 2014	None	None	None	philadelphia	u'#Tehran social security company workers on strike http://t.co/aBv60Lpafy #newsfeed #Tunis #Philadelphia #NoNuclearIran'	0.0333333333333
+Tue Jul 08 01:17:39 +0000 2014	None	u'Hopeless Romantic '	None	columbus	u'Columbus Short Get\u2019s Arrested over The Fourth of July\xa0Weekend. http://t.co/dzBmrzjgct'	0.0
+Tue Jul 08 01:17:39 +0000 2014	None	u'\xb0EARTH AND SOMETIMES MARS\xb0'	None	baltimore	u'RT @Bey_Legion: Beyonc\xe9 &amp; Jay Z have just hit the stage! #OnTheRunTour #Baltimore http://t.co/RotzNvs0DL'	0.0
+Tue Jul 08 01:17:39 +0000 2014	None	u'Earth......Temporarily'	None	new orleans	u"RT @Mz_Bee_Real: Y'all don't know how long I've been wanting to go to New Orleans"	0.0431818181818
+Tue Jul 08 01:17:39 +0000 2014	None	None	None	jackson	u'RT @OMGFacts: Andrew Jackson was the first, last, and only US President to pay off the entire national debt. --&gt; http://t.co/3q0vSGjwMK'	0.0625
+Tue Jul 08 01:17:39 +0000 2014	u'santa catarina'	u'Brasil'	None	helena	u'@rafaelvebr Prefiro a Helena Ranaldi... hehehe'	0.0
+Tue Jul 08 01:17:39 +0000 2014	None	None	None	None	u'RT @AboutTheShow: "I love that the cast chemistry is palpable in every episode, also that it makes me laugh really hard, and all team austi\u2026'	0.127083333333
+Tue Jul 08 01:17:39 +0000 2014	None	u'Las Vegas'	las vegas	san diego	u'RT @AmyMek: #SendThemBack! Breaking: Third immigrant plane to arrive in San Diego http://t.co/ypbvxd7OEa #tcot #teaparty'	0.0
+Tue Jul 08 01:17:39 +0000 2014	None	u'United States'	None	new york	u'Check out Yankees New York Baseball Fan attire size S full zip Track Suite Blue  #NewYorkYankees http://t.co/vGuOXUZYqO via @eBay'	0.162121212121
+Tue Jul 08 01:17:39 +0000 2014	None	None	None	austin	u'Austin is the best twin brother #frat #laxbro #pullssohard #laxislife #cool #helooksjustlikeme'	0.675
+Tue Jul 08 01:17:39 +0000 2014	None	None	None	chicago	u'#Hub51 #chicago'	0.0
+Tue Jul 08 01:17:39 +0000 2014	None	u'US'	None	phoenix	u'http://t.co/uJlJYfph31 #3: Lost City of the Incas (Phoenix Press)\n\nLost City of the Incas (Phoenix Press)Hiram ... http://t.co/gg6iLdE332'	0.0
+Tue Jul 08 01:17:39 +0000 2014	None	u'Motown'	None	washington	u'@Morgesha_ lol you just gone do it all huh? Lol by the time this happen Denzel Washington gone be too old to play the token black father \U0001f615'	0.383333333333
+Tue Jul 08 01:17:39 +0000 2014	None	None	None	None	u'RT @erikavelezz: A esos "machos" que van agrediendo mujeres o personas homosexuales, les paso el dato que la estupidez no agranda el "miemb\u2026'	0.0
+Tue Jul 08 01:17:39 +0000 2014	None	u'So Much Drama In The LBC'	None	phoenix	u'RT @BuzzFeedStorm: Dust Storm Warning issued for the greater Phoenix, AZ area until 7 pm MT. Live video: http://t.co/pJClNSdHxu http://t.co\u2026'	0.318181818182
+Tue Jul 08 01:17:39 +0000 2014	None	u'InsideJustinsPants'	None	miami	u"RT @RONNIESUS: If Justin comes (89% chance) he won't be here for long Bc he has court. In Miami on the 16 or the 17th I believe"	-0.05
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	houston	u'@Bobprintdoc Ummm Houston we have a problem'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	san francisco	u"RT @CapitalOne: You always wanted to see San Francisco Bay, and with Venture's #YesMiles, you can fly any day. http://t.co/pr70NTjZAY"	0.8
+Tue Jul 08 01:17:40 +0000 2014	None	u'Florida'	None	chicago	u'RT @AllenWest: 11 dead, 60 wounded in Chicago wkend violence. Left is silent when it\'s "just" inner city violence http://t.co/8TAec7ZTSr #t\u2026'	-0.05
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	dallas	u"Sunset here in Dallas as I'm about to take off for Seattle for the third stop in the Pro Wakeboard\u2026 http://t.co/KEvlCo3rWt"	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	u'Houston, TX'	houston	houston	u'There are pop songs that remind me of driving across California; remind me of moving to Houston.  Music is part of the memory...'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	u'502'	None	louisville	u'I actually hate how egotistic everyone is in Louisville.'	-0.8
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	None	u'Tengo una amiga que hoy anda tirandose el doble paso... \n@michhy_'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	u'Dallas, TX'	dallas	cleveland	u"RT @NotJerryTipton: LeBron back to Cleveland? Just because you can win a couple titles in Florida doesn't mean you'll ever do it in Ohio. h\u2026"	0.1625
+Tue Jul 08 01:17:40 +0000 2014	None	u'Portugal'	None	austin	u'I added a video to a @YouTube playlist http://t.co/yjKILCJcTe Muse - Live at Austin City Limits 2013, Austin, TX, USA (HD, Proshot)'	0.136363636364
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	fresno	u'RT @MaMoosie: Hey #Fresno (Map of Woodward Park)  3 Ponds &amp; stream -Good luck finding @HiddenCash #BeKind #PayItForward http://t.co/90FOOpf\u2026'	0.7
+Tue Jul 08 01:17:40 +0000 2014	None	u'Clovis Fresno California'	fresno	fresno	u'RT @MaMoosie: Hey #Fresno (Map of Woodward Park)  3 Ponds &amp; stream -Good luck finding @HiddenCash #BeKind #PayItForward http://t.co/90FOOpf\u2026'	0.7
+Tue Jul 08 01:17:40 +0000 2014	None	u'California '	None	austin	u'RT @iadoreyoumahone: PETITION FOR AUSTIN TO GO TO A QUINCEA\xd1ERA \u270b'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	u'Atlanta, Georgia, USA'	atlanta	atlanta	u'#Atlanta #Jobs Boutique Associate- #249 Atlanta, GA- Perimeter Mall at Francescas (Atlanta, GA) http://t.co/l8J2us2Zes #Job #AtlantaJobs'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	chicago	u'RT @BoilerMaker_28: Officially am going to sign with the Chicago cubs organization! So blessed and ready for this opportunity! #gocubsgo'	0.25
+Tue Jul 08 01:17:40 +0000 2014	None	u'Austin, TX'	austin	new york	u'As I walk down the streets of the bustling streets of New York, I frequently  come across a faint smell of piss.'	-0.104797979798
+Tue Jul 08 01:17:40 +0000 2014	None	u'4/6 + jdb + 1/4 + 1/12'	None	mesa	u'RT @ariaisthebigA: #13 novamente aria est\xe1 fazendo "sh" e se olharem debaixo da mesa a arma do crime est\xe1 com ela. tirem suas conclus\xf5es ht\u2026'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	jackson	u'RT @repjohnlewis: 53 yrs ago today I was released from Parchman Penitentiary after being arrested in Jackson for using "white" restroom htt\u2026'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	jackson	u'drtd muter Follow Me-GOT7 and omg jackson voice is so sexy omg... damn it!!!'	0.9765625
+Tue Jul 08 01:17:40 +0000 2014	None	u'\u2606.K4R3T4S.\u2606'	None	chicago	u'RT @ManiPreter: CHICAGO COPA TODO BRASIL RT!!! http://t.co/FeU8BV6vgW'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	u'#WestPhilly  #TeamHilltop #IUP'	None	columbus	u'RT @NYPDnews: Help us ID this child. Abandoned at 59 St &amp; Columbus Ave subway stn on 7/7. Last seen w/ F/20s. Call #800577TIPS http://t.co/\u2026'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	miami	u'RT @_AlmightyDay600: so my mom and her bf are planning on moving to Miami next year. \U0001f629\U0001f601'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	u'Alicante, Spain'	None	boston	u'New: Trial starts for friend of Boston bombing suspect http://t.co/ypG9dONYqy #follow'	0.136363636364
+Tue Jul 08 01:17:40 +0000 2014	None	u'cloud 9 california '	None	fresno	u"RT @sxeymoney: Today's the day of the purge in Fresno?"	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	u'Doha, Qatar'	None	miami	u'RT "@MayelRubio: saw Kevin Hart at Miami beach today. He looked like a giant banana from far #ridealong2" http://t.co/ZYjxbZira3'	0.05
+Tue Jul 08 01:17:40 +0000 2014	None	u'Chattanooga, TN'	None	chicago	u'chicago ridge-hand'	0.0
+Tue Jul 08 01:17:40 +0000 2014	None	u'Barcelona Anz'	None	new york	u'RT @HistoryPixs: An elephant typing on a giant typewriter at the New York World Fair. 1939-1940 http://t.co/vJHU9woo0D'	0.278787878788
+Tue Jul 08 01:17:40 +0000 2014	None	None	None	washington	u'Feel like going to Washington Rock \U0001f623'	0.0
+Tue Jul 08 01:17:40 +0000 2014	u'denver'	u'Denver, CO, USA'	denver	denver	u'After topping out at 100 degrees earlier today, these Denver skies are looking mighty angry now! http://t.co/x3JLLxH2xx'	-0.075
+Tue Jul 08 01:17:41 +0000 2014	u'newark'	None	None	miami	u'Yup \u201c@B_DaGod: So Danny Granger &amp; Josh McRoberts going to Miami. Mhmm\u201d'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	u'Weaver Alabama'	None	atlanta	u"@Dear_Tyler I hope you're ready to get crazy in Atlanta"	-0.2
+Tue Jul 08 01:17:41 +0000 2014	None	u'In this world, not of it.'	None	san diego	u'Third group of illegal aliens sent to San Diego  http://t.co/sKeTQy7fMc'	-0.25
+Tue Jul 08 01:17:41 +0000 2014	None	u'Washington D.C.'	washington	nashville	u'Best Western Plus Music Row Nashville, United States - Location, Info http://t.co/A3ZEOj2LIS http://t.co/ubTH9ayoQz'	0.5
+Tue Jul 08 01:17:41 +0000 2014	None	u'US'	None	boston	u'http://t.co/SfHrsSr27Z #6: 6pc Full Size Set BIC Boston Red Sox MLB Officially Licensed Cigarette Lighters\n\n6pc... http://t.co/KPp4vVnRWc'	0.175
+Tue Jul 08 01:17:41 +0000 2014	None	u'Houston, Texas IG @_VanAshton'	houston	charlotte	u'RT @MONEYMANJONES: #akaboule2014 WEEKEND THIS SATURDAY all AKAS Coming to Charlotte meet me at REPUBLIC WITH\u2026 http://t.co/2l6Z3ClVCD'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	u'North Brunswick, New Jersey'	None	miami	u'RT @Talk_NBA_: During the 2014 NBA Finals LeBron led Miami in PPG, RPG, APG, SPG, FG%, 3FG%\n\nBut some idiots still say he choked'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	u'CLE'	None	cleveland	u"RT @MarkJWeather: CLEVELAND SPLIT? Storms look to slide right out of CLE's DM's tonight. http://t.co/NRhzM2HLo2"	0.285714285714
+Tue Jul 08 01:17:41 +0000 2014	None	u'Secret Avenue'	None	phoenix	u'RT @BYExitIND: Via : @BeforeYouExit: Big thanks to @radiodisney for having us in Phoenix the other day! Had a great 4th of July \U0001f1fa\U0001f1f8 http://t\u2026'	0.2109375
+Tue Jul 08 01:17:41 +0000 2014	None	u'Florida'	None	None	u'RT @Skipwillits: CHESAPEAKE BAY BRIDGE black and white #fineart #chesapeake bay #art #wallart #photography http://t.co/d1vuESOyf5'	-0.0833333333333
+Tue Jul 08 01:17:41 +0000 2014	None	u'La Dorada Caldas'	None	mesa	u'Hoy la soledad se sienta a mi mesa,me invita a brindar por esta tristeza (Jose Feliciano)'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	u'Flog Gnaw'	None	cleveland	u'RT @TheOpening2014: Cleveland @Browns QB Johnny Football (@JManziel2) is here all week to help the next generation work at #TheOpening. htt\u2026'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	u'559, California'	None	fresno	u'RT @LuluLSG: \U0001f602 #Fresno http://t.co/czhNjprnwC'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	None	u"Fuck them other bitches.  I don't keep em on a leash unless I'm taking long walks down the beach."	-0.182638888889
+Tue Jul 08 01:17:41 +0000 2014	None	u'canada'	None	washington	u'#businessNews Most F-35 engines inspected; U.S. contract talks on hold for now: WASHINGTON (Reuters) - Most of... http://t.co/7DWcU8hfYM'	0.5
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	atlanta	u"RT @NeNeLeakes: RT @themrsllucas: There is no REAL Housewives of Atlanta without @NeNeLeakes   I'm boycotting"	-0.1
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	boston	u'@NHLBruins @pastrnak96 Welcome to Boston! Go Bruins!! \U0001f43b\U0001f49b'	1.0
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	denver	u'RT @suicidesilence: DENVER, CO- Are you coming to our signing at Second Spin in ONE WEEK (7/14)? http://t.co/ilLdbTezAu'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	u'RADIO 24 HS - '	None	None	u'@nanda9272 es el ultimo tema ahora te lo paso amiga fer =)'	0.5
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	aurora	u'vc \xe9 aurora e eu sou fim de tarde'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	houston	u"RT @DVirani97: There is only one way to describe Houston's weather: http://t.co/Q68qz8vIFM"	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	u'Atlanta, GA'	atlanta	jackson	u'ATTENTION USHER MINISTRIES:\n\nPastor Parker and Rev. Jackson will meet with all usher ministry members on Monday,... http://t.co/JmyuM9bNvs'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	las vegas	u'sdds festa las vegas sdds'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	st. louis	u'The tarp is back on the field in St. Louis'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	chicago	u'Fourth of July weekend toll: 82 shot, 14 of them fatally, in Chicago http://t.co/jiMHskNHyG'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	u'California USA'	None	None	u'Man sues ESPN for 10 Million. LOL\n\n http://t.co/zLKISmx3L2'	0.8
+Tue Jul 08 01:17:41 +0000 2014	None	u'M\xe9xico '	None	el paso	u'\xbfQu\xe9 ha sido lo m\xe1s inesperado que te ha ocurrido esta semana? \u2014 Que El Paso A Mi Lado ((L)) ! :3 http://t.co/WhUhpsrkCD'	0.5
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	miami	u'RT @Biche_3: Cookies + grand verre de lait + un film \U0001f44c + Gom + Miami + doudou = \u2764\ufe0f'	0.5
+Tue Jul 08 01:17:41 +0000 2014	None	u'Ohio'	None	cleveland	u'RT @cle_cleveland: Rumor: Cavaliers will sign Ray Allen to accompany LeBron James if he chooses Cleveland. http://t.co/ZVOkRygqiC'	0.0
+Tue Jul 08 01:17:41 +0000 2014	None	None	None	tampa	u'@yopayyy IM BACK FROM TAMPA I SHALL SEE YOU SOON \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'TX \u2708\ufe0fFL'	None	miami	u"Can't wait to go to Miami soon. \U0001f64c\U0001f601"	0.0
+Tue Jul 08 01:17:41 +0000 2014	u'pennsylvania'	None	None	pittsburgh	u'Somebody tried to carry a Pittsburgh Power conversation with me today. It was a whole lot of me nodding my head in agreement.'	0.2
+Tue Jul 08 01:17:42 +0000 2014	None	u'Mentally been many places.....'	None	houston	u"Allan Houston authentic from Puma when they made the jerseys and the shorts...only wore the shorts to ball in...I'm no herb...."	0.5
+Tue Jul 08 01:17:42 +0000 2014	None	u"I'm not sure myself "	None	columbus	u'RT @NYPDnews: Help us ID this child. Abandoned at 59 St &amp; Columbus Ave subway stn on 7/7. Last seen w/ F/20s. Call #800577TIPS http://t.co/\u2026'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'New York, NY  USA'	new york	san diego	u'RT @SDOpera: City of San Diego awards us an additional $100,000 in funding. Thank you @CityofSanDiego. @KPBS reports http://t.co/45MSVdrodg'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'North Carolina'	None	chicago	u'Trying to figure out logistics of Weds Atl-Chicago game; do I want to come back here Wed night? Without Wynalda?'	-0.2
+Tue Jul 08 01:17:42 +0000 2014	None	u'south sumatera'	None	oakland	u'RT @DjKingAssassin: #hiphop #rap #gametime #oakland vs #sf battle of the bay #maxinejones singing...: #gametime #o... http://t.co/SGlvA8Gnp\u2026'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'Just wanna get to heaven :)'	None	baltimore	u'Baltimore whaddup \U0001f481 Oh hey Jay &amp;&amp; B \U0001f60f http://t.co/JEI5NJqjxk'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	None	None	miami	u'RT @Talk_NBA_: During the 2014 NBA Finals LeBron led Miami in PPG, RPG, APG, SPG, FG%, 3FG%\n\nBut some idiots still say he choked'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'New York'	new york	austin	u"RT @Elliott444: @Chewster2e @KIPPSI1 @risingdove https://t.co/Hm6zj06OiS PLEASE HELP US FIND AUSTIN A WONDERFUL FOREVER HOME  oh he's beaut\u2026"	1.0
+Tue Jul 08 01:17:42 +0000 2014	None	None	None	mesa	u'Cama y mesa - Michael el buenon.'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'USA'	None	jefferson city	u'RT @WeatherZach: 7 Day Forecast for Jefferson City #JCMO http://t.co/X14RO0GosY'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	None	None	new york	u'RT @YouCubeMeetup: So far, the meetup will be in New York City on Saturday, July 12th. No time or date confirmed yet!'	0.245454545455
+Tue Jul 08 01:17:42 +0000 2014	None	None	None	santa fe	u'@villanuevaelise @ThizCat Santa Fe Swapmeet'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'south sumatera'	None	oakland	u'RT @DjKingAssassin: Photo: #gametime #oakland vs #sf battle of the bay #maxinejones singing the #nationalanthem http://t.co/dHp4OvCzl1'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	None	None	new york	u'I wanna go to New York! \U0001f60d\U0001f495'	0.170454545455
+Tue Jul 08 01:17:42 +0000 2014	None	u'Hong Kong'	None	cleveland	u'@jfdulac Hot in Cleveland...'	0.25
+Tue Jul 08 01:17:42 +0000 2014	None	u'Instagram : @kylemcwilliams2'	None	atlanta	u'RT @Golfgirl724: @kyle_bball_02 flexin with 2 colleges watching in Atlanta this weekend #UCF #Columbia'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	None	None	tampa	u"RT @TBBuccaneers: #Bucs fans! Please vote for Tampa's own @6DFarmer for an @espy!\nVOTE: http://t.co/pydP6UuONI \n#VoteDeclan #TeamTampa http\u2026"	0.75
+Tue Jul 08 01:17:42 +0000 2014	None	u'Atl. The Dirty South Baby!!'	None	pierre	u'RT @hihi0806: Plz enjoy Renoir. Have a nice day. #Pierre Auguste Renoir ( 1841 - 1919) http://t.co/lbF4BsH1pQ'	0.5
+Tue Jul 08 01:17:42 +0000 2014	None	None	None	omaha	u'RT @NativAmProverbs: Ask questions from you heart and you will be answered from the heart. ~ Native American Proverb, Omaha [15763] #prover\u2026'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'Release: Feb 4, 2014'	None	washington	u'Not 2yrs yet MT @nytimes: Recreational MJ sales will start in Washington state on Tuesday after two years of waiting http://t.co/bLBhx95tuP'	0.0
+Tue Jul 08 01:17:42 +0000 2014	None	u'we$t coast'	None	fresno	u'RT @HiddenCash: Fresno: Head to the big park for lots of silver and green. http://t.co/75e24mBilI'	-0.1
+Tue Jul 08 01:17:43 +0000 2014	None	u'Bossier City, La'	None	memphis	u'WE JUST SAW  JUICY J HERE IN MEMPHIS AT THE MALL'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'south sumatera'	None	oakland	u'RT @DjKingAssassin: #gametime #oakland vs #sf battle of the bay #maxinejones singing the #nationalanthem http://t.co/tztAcsbJgm'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'\u2665 \u0e40\u0e40\u0e1a\u0e04\u0e2e\u0e22\u0e2d\u0e19 \u2665 \u0e40\u0e1a\u0e04\u0e2d\u0e19 \u2665 \u0e2b\u0e21\u0e32\u0e19\u0e49\u0e2d\u0e22 '	None	san francisco	u"RT @CapitalOne: You always wanted to see San Francisco Bay, and with Venture's #YesMiles, you can fly any day. http://t.co/pr70NTjZAY"	0.8
+Tue Jul 08 01:17:43 +0000 2014	u'pittsburgh'	None	pittsburgh	pittsburgh	u'Visiting #Pittsburgh, #Pennsylvania? Check out this great new app for news, weather, hotels, and food here! http://t.co/IhjgjejeQ6'	0.485227272727
+Tue Jul 08 01:17:43 +0000 2014	None	u'NONO FOSSO, MALEBOLGE'	None	raleigh	u'Sabia que conhecia esse Raleigh Ritchie de algum lugar, ele \xe9 o Grey Worm'	-0.05
+Tue Jul 08 01:17:43 +0000 2014	None	u'Venezuela'	None	None	u"Un paso alante, un paso atr\xe1s  Cinturita, as\xed es como va  Vamo' all\xe1, ponle m\xe1s  Siente el ritmo  88*"	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	jackson	u'why is lulu on the fosters what does true jackson think about this'	0.35
+Tue Jul 08 01:17:43 +0000 2014	None	u'Margaritaville '	None	boston	u'Photo: Pedro Martinez / Phillip Levine (Photo: Matthew J. Lee/The Boston Globe via Getty Images) http://t.co/xVRDWBReCR #redsox #bibliophile'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'SF Area, CA'	None	charlotte	u'RT @openculture: 13-Year-Old Charlotte Bront\xeb Wrote Teeny Tiny Adventure Books, Measuring 1 x 2 Inches http://t.co/8LH6lHKGNy http://t.co/6\u2026'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'Washington Township NJ!'	washington	dallas	u'@Tunks04 @dinardodp I Agree Dallas Fans Are Heartless and Ruthless Living In New Jersey!'	-0.414772727273
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	new york	u'New York City, is the Only City in the USA, with an Emoji lmfao!! #NewYork'	0.0681818181818
+Tue Jul 08 01:17:43 +0000 2014	None	u'Argentina'	None	washington	u'RT @CiberacosoLey: @saenzricardo 03/ 2014 El Fiscal Washington Navarro D\xe1vil ordeno allanamientos pornograf\xeda Infantil en Tucum\xe1n http://t.\u2026'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'\xdcT: 38.450463,-121.359383'	None	oakland	u"RT @kenarneson: Oakland City Council, you're the best."	1.0
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	st. louis	u'RT @Cardinals: Pulling the tarp in St. Louis. Delay started at 8:14 pm Central Time http://t.co/ZwBU5d6zRY'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'Lansing, MI'	lansing	washington	u'Rpt: Fight Washington &amp; Mell.  2 Males fighting.  1 on the ground'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	santa fe	u'Jorjitito pasate por santa fe!!! Te amamoos!!! #Avenidabrasil'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'A city near you...'	None	columbus	u'Columbus Short Get\u2019s Arrested over The Fourth of July\xa0Weekend. http://t.co/HgujHmLYKM'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'Washington, DC'	washington	arlington	u"@VerizonSupport what's going on with cell service in Arlington, VA? My phone nor my roommate's can hold a call."	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'SOUTH MEXICO CITY'	None	cleveland	u'RT @nokillcoalition: Urgent Cleveland Co Animal Control.  Please share. http://t.co/KeMCntYBDd'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'RJ'	None	austin	u'RT @jaureworld: Se eu soubesse que seria obrigada a abrir tour do Austin daqui pra frente at\xe9 eu choraria entendo a Lauren completamente'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'Atlanta,GA'	atlanta	austin	u'Support my boys. ..Austin Carter RastaTeal... squad44atl http://t.co/5qzsRJNBax'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'Batesville, IN'	None	miami	u'RT @sports_indy: Pacers fans, RT if you think you might cry when you first see Danny Granger in a Miami Heat uniform.'	0.25
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	charlotte	u"@AuntKim328 @RettaRace @HollywoodinDC @DCGirlKayla @DannyGermany hahaha \U0001f60a oh I can't wait for Charlotte mainly for the #CharlotteChicas"	0.183333333333
+Tue Jul 08 01:17:43 +0000 2014	None	u'the basement'	None	washington	u'Starcraft: Bertrand Russell (Z) PROXY BUTT; Billy Ray Cyrus (Z) FAST EXPAND FART. George Washington wins!'	0.2875
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	los angeles	u'RT @JBieberCOM: Justin est\xe1 de volta a Los Angeles com Kenny, Alfredo e outros amigos.'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	chicago	u'RT @thisis50: Out Of Control: 82 People Shot, 14 Killed In Chicago During 84-Hour 4th Of July Weekend [Video/Pics] http://t.co/meoIwu3Wgl'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'Rep dominicana'	None	None	u'@margarit003 @ItzDaniiela @mabelvanderhosr haahahaaha lastima qk no paso en el cole la vida ubiera sido mejorrrr un palo la 4 igual de loqa'	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'wilmington, nc'	None	charlotte	u'so the charlotte hornets lose a criminally-underrated forward and gain a criminal at guard. this is what happens to the teams i root for.'	-0.4
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	detroit	u"RT @nytimes: Map: Detroit's once-prosperous North End is checkered with vacant properties and lots http://t.co/fAxorEbNSD http://t.co/y9CRY\u2026"	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	los angeles	u'@SuchGoodPeople premiere starts in less than an hour in Los Angeles.\n\nI wish a great time to all the persons who are going - enjoy !!'	0.419444444444
+Tue Jul 08 01:17:43 +0000 2014	None	None	None	jackson	u'RT @scottykyle: ANDREW ROSS SORKIN on the "RECORD" as Michael Jackson @andrewrsorkin @JoeSquawk @SquawkCNBC @robcontino http://t.co/gaXQVPP\u2026'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	None	None	None	u'Agilizame el final de #AvenidaBrasil que estoy postguardia y en cualquier momento paso a mejor vida'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	None	None	concord	u"RT @SneakerPics23: Concord 11's http://t.co/VoEMlRHUuI"	0.0
+Tue Jul 08 01:17:43 +0000 2014	None	u'\u2764the magnolia state\u2764'	None	dallas	u"Oh you know. Just discussing mine &amp; @SassySoMess's plans to move to Dallas. \U0001f60d\U0001f602\U0001f602 http://t.co/hU2cVsThCb"	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	None	None	miami	u'Miami - skin care client needs light to dark skin models for product demonstrations and photo work'	0.125
+Tue Jul 08 01:17:44 +0000 2014	None	u'in da hood like benefit cards'	None	los angeles	u'Yo the arena team Los Angeles field is nuts...they gotta highlighted grey field'	-0.05
+Tue Jul 08 01:17:44 +0000 2014	None	u'San Juan de los Morros'	None	mesa	u'UNERGISTA @Deportes_Unerg TE INVITA A PARTICIPAR EN TORNEO ABIERTO DE AJEDREZ Y TENIS DE MESA MA\xd1ANA DESDE LAS 9AM AN\xcdMATE!!! @PrensaUNERG'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	None	None	san diego	u'RT @gonzalezp251: Policia de San Diego echando plomo a manifestantes. No votamos por la alcaldesa Scarano para esto!!! http://t.co/tXZewDyb\u2026'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	u'Niagara'	None	miami	u'Real Housewife of Miami Lisa Hochstein in a tiny bikini http://t.co/PH0i4uBplr 7 0708'	0.1
+Tue Jul 08 01:17:44 +0000 2014	None	u'Corrupt City of Chicago'	chicago	chicago	u'Liberals Abandon Obamacare Employer Mandate http://t.co/gRNf5lfg4q #cnn #ac360 #nyc #chicago #tcot #tpp #twisters'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	u'In Your Fantasy'	None	columbus	u'RT @TVGuide: Columbus Short opens up for the first time about being fired from #Scandal. Does he think he has a drinking problem? http://t.\u2026'	0.125
+Tue Jul 08 01:17:44 +0000 2014	None	u'w. Tobias \u2708'	None	washington	u'RT @Kash_KapBaby: WestLake\nBanneker\nCreekside\nTri-cities\nMays\nWashington\nDoug\nHapeville\nTherell \nSandy Creek\nNorth Clayton\nRiverdale\n#RT if\u2026'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	u'New York, NY'	new york	new york	u'@firefire100 @PonchoDachozen1 New York... not as violent as the ghettos of Chicago thanks to good policing.'	0.0590909090909
+Tue Jul 08 01:17:44 +0000 2014	None	u'US'	None	boston	u'http://t.co/rkJN8E0LlI #2: Boston Bruins BIC Lighters 6pk NHL Officially Licensed Cigarette Lighters\n\nBoston Br... http://t.co/YGxGhdK7OC'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	u'World'	None	denver	u'Driver for True Value (Denver, CO) http://t.co/O6w9DSBY8r #jobs'	0.35
+Tue Jul 08 01:17:44 +0000 2014	None	u'Argenteuil/Casa/Tlemcen'	None	salem	u'Mon daron il ma l\xe2cher un Salem Aleykoum venu du fin fond de la Mecque j\'ai r\xe9pondu "Bonjour"'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	u'usa'	None	chicago	u'Chicago cop gave daughter-in-law up to feds after helping her grow pot for sick child http://t.co/bMe1uqLX7y'	-0.714285714286
+Tue Jul 08 01:17:43 +0000 2014	None	u'114 South Detroit Ave, Suite B'	detroit	tulsa	u'New Arrivals! #fashion #Tulsa #oklahoma  #DowntownTulsa http://t.co/mStLG3inct'	0.170454545455
+Tue Jul 08 01:17:44 +0000 2014	None	u'Nashville, TN'	nashville	lincoln	u"Lincoln's first experience at the Andale pool was a success!  Thanks to cousin Owen for putting up\u2026 http://t.co/x6flepFshh"	0.275
+Tue Jul 08 01:17:44 +0000 2014	None	None	None	cleveland	u"Wouldn't be surprised of LeBron went back to Cleveland"	0.05
+Tue Jul 08 01:17:44 +0000 2014	None	None	None	springfield	u'@DominiqueARamos hurry so we can reek havoc on Springfield at 3am!!!'	0.0
+Tue Jul 08 01:17:44 +0000 2014	None	u'Atl. The Dirty South Baby!!'	None	pierre	u'RT @hihi0806: Plz enjoy Renoir. Have a nice day. #Pierre Auguste Renoir ( 1841 - 1919) http://t.co/ZXU0t2y12C'	0.5
+Tue Jul 08 01:17:44 +0000 2014	None	u'Planet Earth'	None	new york	u'RT @MaggsTony: Under the street lights (New york 1958) http://t.co/9rBlJchvlY'	0.136363636364
+Tue Jul 08 01:17:44 +0000 2014	None	None	None	houston	u"@ShawnMendes I was in Houston like two days ago ok now I'm in Mexico ok"	0.5
+Tue Jul 08 01:17:44 +0000 2014	None	None	None	miami	u'RT @BigAssAddicts: Miami girls &gt; http://t.co/2m1t2eNWHI'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'YO WET TWITTER FANTASY '	None	detroit	u'\U0001f51d\U0001f6b6#BOSS_UP R #BOW_DOWN #ROLL W/DA FN #FINE$T&gt; @SkandoaCrook @CNiKKi_Moe @DramaFreeDiva @Jobstown12345 #DETROIT  #TFB\U0001f4af #RT2GAIN_FAST \U0001f51d\U0001f6b6::'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	None	None	miami	u'RT @Talk_NBA_: During the 2014 NBA Finals LeBron led Miami in PPG, RPG, APG, SPG, FG%, 3FG%\n\nBut some idiots still say he choked'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	None	None	fresno	u'RT @MaMoosie: Hey #Fresno (Map of Woodward Park)  3 Ponds &amp; stream -Good luck finding @HiddenCash #BeKind #PayItForward http://t.co/90FOOpf\u2026'	0.7
+Tue Jul 08 01:17:45 +0000 2014	None	None	None	baltimore	u'\u201c@4middleschool: Lets go on omegle bro\u201d @p_d_phillips @CGreenway6 @BlakeRickan #Baltimore'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	None	None	minneapolis	u'RT @ProstheticRcds: #TOURDATES  @heavyCastle Minneapolis, MN @ Memory Lane | @POLARUK Lille, FR - Le Midland'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'Deerfield beach,FL.'	None	jackson	u'Big Jackson Foot... Lol http://t.co/TnciNbsnF4'	0.4
+Tue Jul 08 01:17:45 +0000 2014	None	u'Connecticut '	None	houston	u"Bosh didn't sign that deal with Houston yet?"	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'FL - USA'	None	miami	u'RT @soloclicvzla: A llorar al valle---&gt; Expropietario de Globovisi\xf3n eval\xfaa demandar a exfuncionario de Miami http://t.co/S5S9gZ50L3'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'JustEnjoyThisLife\u2708'	None	fresno	u'RT @MaMoosie: Hey #Fresno (Map of Woodward Park)  3 Ponds &amp; stream -Good luck finding @HiddenCash #BeKind #PayItForward http://t.co/90FOOpf\u2026'	0.7
+Tue Jul 08 01:17:45 +0000 2014	None	None	None	madison	u'The Best of WWE at Madison Square Garden [Blu-ray] - http://t.co/1hYkhDaiS4 http://t.co/UQDn9Dy4oZ'	1.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'United Free States of America'	None	dallas	u'City Leaders Shut Out Of Plan To Shelter Immigrant Kids (Dallas) ..FreeRepublic ConservativeNews http://t.co/7uDRp0DBA0'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	None	None	austin	u"@natalia_potter @VJusticeOhio what have you not seen Austin's tweets"	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'Howell'	None	cleveland	u'"If there was an opportunity for me to return, and those fans welcome me back, that\'d be a great story." - The King on a Cleveland return.'	0.533333333333
+Tue Jul 08 01:17:45 +0000 2014	None	u'HAP Garments'	None	chicago	u"RT @anazaalene: Females from Chicago- models needed. Dm, don't mention me."	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'Chicago, Illinois'	chicago	lincoln	u"RT @TWCBreaking: #Severe t'storm warning just issued for Lincoln until 8:30p CT. RT @Tacticalrad: @TWCBreaking  north of lincoln, ne http:/\u2026"	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'nyc'	None	miami	u"RT @RONNIESUS: If Justin comes (89% chance) he won't be here for long Bc he has court. In Miami on the 16 or the 17th I believe"	-0.05
+Tue Jul 08 01:17:45 +0000 2014	None	u'Flower City Casuals '	None	new york	u'I WON 874 FOLLOWERS\n\u27bd.www.takipcikazan.com\n#weschitchat\nLove &amp; Hip Hop\nBack to New York\n#ImTheRealAshtonIrwinBirthdayParty'	0.212121212121
+Tue Jul 08 01:17:45 +0000 2014	None	None	None	houston	u'RT @CaptainU: CaptainU soccer player Jack Houston could be the next #USMNT defender. RT/FAV to vote for him for Video of the Week\nhttp://t.\u2026'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'36 years old'	None	dallas	u'RT @wokkax3: Ok Andi is in a Dallas hometown date with Patrick Bateman. They r cruising 4 rodents'	0.5
+Tue Jul 08 01:17:45 +0000 2014	None	None	None	jackson	u"I'll Fly Away By Alan Jackson: http://t.co/HVSTAx0elX via @YouTube"	0.8
+Tue Jul 08 01:17:45 +0000 2014	None	u'Spurs City, Texas'	None	st. louis	u'RT @Cardinals: Pulling the tarp in St. Louis. Delay started at 8:14 pm Central Time http://t.co/ZwBU5d6zRY'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'SOUTH MEXICO CITY'	None	atlanta	u'RT @nokillcoalition: Please share this pup in Atlanta, GA who needs a home. http://t.co/b859CdXvqg'	0.0
+Tue Jul 08 01:17:45 +0000 2014	None	u'Dalton, Georgia'	None	cleveland	u"RT @CoachLongDHS: @GoldenDev LeBron and Melo back to cleveland. Been sayin' it for weeks."	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'Oakland, CA'	oakland	oakland	u'RT @insidebayarea: Tough finding apartment with high Oakland rents http://t.co/Odgxw1xViv'	-0.114444444444
+Tue Jul 08 01:17:46 +0000 2014	None	u'Buenos Aires, Argentina'	None	None	u'RT @camila_crosta: @SaamiH sisi, no te lo queria decir pero sabes que? El primer paso es la aceptacion, sentite bien. Estoy orgullosa de vo\u2026'	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'Instagram: IAMSHEYLACABRERA'	None	austin	u"RT @Ruth_btr96: @MahonePlanet CHICAS !!! AUSTIN MA ACABA DE SEGUIR !! :') I'M SOO HAPPY !!!! *queria compartir mi felicidad con ustedes* XD"	1.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'grab her butt'	None	atlanta	u'RT @SouthernScenery: Atlanta, Georgia http://t.co/C6b4a9nqXl'	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'Hollywood, California, USA'	None	chicago	u'Chicago Group Fights Growing Street #violence with Yoga Classes -  The students "live in an environment where... http://t.co/QWXXrPtBbj'	0.136363636364
+Tue Jul 08 01:17:46 +0000 2014	None	None	None	tulsa	u'This is happening tomorrow in Tulsa!!!  I would love to have you come as my guest! http://t.co/bnLFWI01Us'	0.625
+Tue Jul 08 01:17:46 +0000 2014	None	u' MG Brasil'	None	los angeles	u'RT @JBieberCOM: Justin est\xe1 de volta a Los Angeles com Kenny, Alfredo e outros amigos.'	0.0
+Tue Jul 08 01:17:46 +0000 2014	u'minnesota'	u'Minnesota'	None	miami	u'@EricPincus @LakerNation the longer Melo takes the more I worry about him going to Miami.   Something is weird about this whole thing.'	0.0666666666667
+Tue Jul 08 01:17:46 +0000 2014	None	None	None	anaheim	u"RT @stheodore17: Great week of hard work in anaheim for development camp, already can't wait to be back for camp in the fall #SoCal #Ducks"	0.169444444444
+Tue Jul 08 01:17:46 +0000 2014	None	None	None	dallas	u'@BiebersCadela lol ur not cameron dallas'	0.8
+Tue Jul 08 01:17:46 +0000 2014	None	u'Chicago'	chicago	chicago	u"Good lawd! It's 8:16 p.m. in Chicago and it's 86 degrees! Here's hoping for a slow night, you night jockeys. #Noir"	0.35
+Tue Jul 08 01:17:46 +0000 2014	None	u'washington D.C.'	washington	madison	u'Madison Beer - Melodies: http://t.co/MmyMdyOQiX v\xeda @YouTube :3 &lt;3'	0.5
+Tue Jul 08 01:17:46 +0000 2014	None	u'Sweden'	None	new york	u"I Love My New wardrobe New York shopping Rock's!!! #New York #shopping # shopping #New York shopping\u2026 http://t.co/LGKmWtOGKQ"	0.235085227273
+Tue Jul 08 01:17:46 +0000 2014	None	None	None	miami	u'#Tabriz #Friday prayer sermon recommends Guidance patrol http://t.co/q2uyHPKRmC #CNN #ENPC #Miami #Spain #York #google'	-0.225
+Tue Jul 08 01:17:46 +0000 2014	None	u'Paris'	None	austin	u"RT @whrsvmia: jake t austin c'est mon mari"	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'Louisville, KY'	louisville	miami	u'Miami: sunny city, shady people'	-0.25
+Tue Jul 08 01:17:46 +0000 2014	None	u'USA the South'	None	san antonio	u'RT @Street_Diamond: Meet us in SAN ANTONIO! TX Urban Experience: #TEXASALLSTARDJS MEET AND GREET / ARTIST SHOWCASE JULY9th http://t.co/MBy4\u2026'	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'JANOS 3.5 || \u8ffd\u6c42\u5e78\u798f'	None	jackson	u'RT @DRVGSKYLIE: \u201c@fckyeaobrien: This episode is gunna make me miss Jackson so much\u201d \U0001f61f\U0001f61f\U0001f494'	0.2
+Tue Jul 08 01:17:46 +0000 2014	None	u'New York'	new york	new orleans	u'Solange Covers Lucky Magazine - Lucky Magazine had the chance to catch up with Solange in New Orleans to... http://t.co/d0Wp05xBWA'	0.267676767677
+Tue Jul 08 01:17:46 +0000 2014	None	None	None	san diego	u'RT @LaPercusion: Pruebas, Policia de san diego disparando con pistolas 9mm a manifestantes 5/7: http://t.co/KgX8Qjv4tw @fdelrinconcnn'	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'Rocky Top, TN'	None	raleigh	u"RT @VolRumorMill: @ZehDuck Oh, you mean Raleigh's nephew?"	-0.3125
+Tue Jul 08 01:17:46 +0000 2014	None	None	None	tampa	u'RT @itsselenasilly: @yopayyy IM BACK FROM TAMPA I SHALL SEE YOU SOON \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f'	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'Adult World Wide Web'	None	los angeles	u'Jimmyjane Opens a Full-Service Showroom in Los Angeles http://t.co/qyNKDd9sH9'	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	None	None	detroit	u'Man arrested with knife in shoe at Detroit airport http://t.co/OzgDNtvFZw via @YahooNews http://t.co/A5TfMph8w5'	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'Ft. Myers Beach, FL'	None	miami	u'"@FollowNickCormz: When she tells you she\'s a Miami Heat fan. http://t.co/FZMFOPkl7b" @TrevorPontz'	0.0
+Tue Jul 08 01:17:46 +0000 2014	None	u'CA.'	None	oakland	u'RT @richmedina: Salute! RT @RealSway: Man #Oakland is magnetic. 2 global dj legends! vikterduplaix and @richmedina at Tribune Tavern\u2026 http:\u2026'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	baltimore	u'RT @Bey_Legion: Beyonc\xe9 &amp; Jay Z have just hit the stage! #OnTheRunTour #Baltimore http://t.co/RotzNvs0DL'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	None	u'Ya se me paso el enojo pero no le voy hablar por puto.'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'BLC, NV'	None	st. louis	u'RT @Cardinals: Pulling the tarp in St. Louis. Delay started at 8:14 pm Central Time http://t.co/ZwBU5d6zRY'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	chicago	u"RT @PatLionel2: Chicago murders top Afghanistan death toll, why aren't the Dems angry about Chicago deaths? http://t.co/5JqEcu4bPt #RKBA #N\u2026"	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'Huntsboogie'	None	miami	u'RT @__J_R: "Granger is a good pick up we gunna win this year"- same fans that said Oden would help Miami win a title'	0.575
+Tue Jul 08 01:17:47 +0000 2014	None	u'Detroit'	detroit	miami	u'RT @MiamiEntLaw: @TeamNefudaboss &lt;&lt; Thank you for following Miami Entertainment Law Group (@MiamiEntLaw). Give us a call if you ever need a\u2026'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	boston	u'Join us to shape the Future of Science!  October 2-3 2014 at Boston University http://t.co/RqzAQENsCP'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	new york	u"A pig's favorite movie: The Monster That Ate New York."	0.318181818182
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	cleveland	u"Lebron won't win in Cleveland."	0.8
+Tue Jul 08 01:17:47 +0000 2014	None	u'Kolumpo \u2194\ufe0f Joho'	None	salem	u'@Ietahsyitah ehh tp dia ade kucing hitam jugak kan yg ade bulan atas kepala dia tu? nama Salem tu aku main tibai je. kahkah'	0.166666666667
+Tue Jul 08 01:17:47 +0000 2014	None	u'The Internets'	None	columbus	u'Columbus Short Get\u2019s Arrested over The Fourth of July\xa0Weekend. http://t.co/8VmxyOrMnI'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'Wyandotte, MI'	None	detroit	u'Detroit Pistons Decision On Peyton Siva Looming http://t.co/ppxfErE7QP'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'Big Apple'	None	columbus	u'RT @NYPDnews: Help us ID this child. Abandoned at 59 St &amp; Columbus Ave subway stn on 7/7. Last seen w/ F/20s. Call #800577TIPS http://t.co/\u2026'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	dallas	u'@DallasAllNews please not Dallas we have a enough ass holes here..'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'TCI \u2708 CHICAGO \u2708 FLA'	chicago	jackson	u'RT @ChasteCo: #CHASTE850 makes its east coast debut @SawgrassGolf in Ponte Vedra Beach, FL! Thank you! #jacksonville #FL #Florida http://t.\u2026'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'Los Angeles, Ca'	los angeles	salt lake city	u"And I'm back~ #itsalwaysanadventure \u2014 traveling to Salt Lake City, Utah from Long Beach Airport http://t.co/oYZrtvadlz"	-0.025
+Tue Jul 08 01:17:47 +0000 2014	None	u'Argentina,Cordoba'	None	None	u'RT @soyvedito: Adem\xe1s que grabando uno mismo aprende de paso a producir y sin que nadie te haga mirar el reloj, tutoriales, nuevos softs y \u2026'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'New York, USA'	new york	new york	u'RT @hashNewYork: News Now: "Potential buyer of New York City Opera objects to delays - Reuters" http://t.co/BNwx64NSCE #Newyork #NY #hashNe\u2026'	0.0681818181818
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	santa ana	u'@noellebean remembers getting gum out of Christas hair!! In the Santa Ana concert \U0001f60d\U0001f60d @noellebean @itschristaa'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	fresno	u'RT @MaMoosie: Hey #Fresno (Map of Woodward Park)  3 Ponds &amp; stream -Good luck finding @HiddenCash #BeKind #PayItForward http://t.co/90FOOpf\u2026'	0.7
+Tue Jul 08 01:17:47 +0000 2014	None	u'sudbury,ont'	None	indianapolis	u'RT @Adam_Giambrone: Innovative and extensive storm water management in Indianapolis called "rain water gardens" http://t.co/DO63Kj5CRb'	0.25
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	jackson	u'RT @BestMusicLyric: "We\'ve been talkin\' \'bout Jackson, ever since the fire went out." -Johnny Cash'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	None	None	los angeles	u'@Sophia_Amoruso I could be Los Angeles based if I needed to...\nTime to email my resume methinks'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'US'	None	boston	u'http://t.co/qrEo3udq3N #10: Why "Good Kids" Turn into Deadly Terrorists: Deconstructing the Accused Boston Mara... http://t.co/dnTv2Z0SRW'	0.25
+Tue Jul 08 01:17:47 +0000 2014	None	u'LaCosta/Carlsbad'	None	chicago	u'Sheesh, the level of gun violence in Chicago is awful. Same areas as 20 years ago, but much more.'	-0.166666666667
+Tue Jul 08 01:17:47 +0000 2014	None	u'FSU'	None	washington	u'@AlejandroSizzle lol he going back to Washington I bet'	0.4
+Tue Jul 08 01:17:47 +0000 2014	None	u'Romania'	None	montgomery	u'RT @SF_emergency: Avoid the area of Montgomery and Sacramento Streets due to @SFPD activity. For alt routes check http://t.co/mOU7jA4fqo #S\u2026'	-0.125
+Tue Jul 08 01:17:47 +0000 2014	None	u'Denver,CO'	denver	None	u'RT @ColoBeerMan: Most hilarious taproom staff craigslist ad ever? http://t.co/3sWjupwQbe'	0.5
+Tue Jul 08 01:17:47 +0000 2014	None	u'MPLS'	None	minneapolis	u'If you are Minneapolis &amp; love cheese and/or learning, you should consider coming to my class. Tasty AND educational! http://t.co/9ML5u4mZgQ'	0.40625
+Tue Jul 08 01:17:47 +0000 2014	None	u'Michigan '	None	detroit	u'RT @hackaday: Detroit Meetup this Friday http://t.co/b4gMPmtlxq'	0.0
+Tue Jul 08 01:17:47 +0000 2014	None	u'New York, USA'	new york	jackson	u'RT @hashNewYork: News Now: "Report: Jackson Thinking Cap Space, Hoping To Deal Stoudemire And Bargnani - CBS Local" http://t.co/aNWqQdvCkS \u2026'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'Tampa Bay'	tampa	jackson	u'This, when it was released, was when society really started saying "WTF?" with Jackson and how he looked.'	-0.15
+Tue Jul 08 01:17:47 +0000 2014	None	u'Harrisburg, PA'	harrisburg	miami	u'Everyone is gonna be so sick if the big 3 in Miami break up'	-0.357142857143
+Tue Jul 08 01:17:47 +0000 2014	None	u'C\xf3rdoba, Argentina'	None	miami	u'#Noche #Miami http://t.co/63l9MBRcTo'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'EAST COAST'	None	baltimore	u'@Tiny_Hippy @bongwynnn  Invite her to come to Baltimore'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'Chicago'	chicago	chicago	u'RT @TimeOutChicago: Nine indie booksellers will be celebrating local commerce during Chicago Independent Bookstore Day on Saturday: http://\u2026'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'and 20+ years military'	None	chicago	u'RT @kharyp: Since Jan. 1, more than 1,100 people have been shot in Chicago. http://t.co/DLeXg2NPli via @HuffPostCrime #GunSense http://t.co\u2026'	0.5
+Tue Jul 08 01:17:48 +0000 2014	None	u'Sacramento'	sacramento	sacramento	u'@13Hotep  NEW MUSIC from the Sacramento Native, @Railey_Lawson https://t.co/XrYAgdR6gU #FreeDownload #Cali #Soundcloud'	0.136363636364
+Tue Jul 08 01:17:48 +0000 2014	None	None	None	None	u'RT @TOPFLIGHTZEL: @Koa_Lo http://t.co/d9mbnCbS0a'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'Chicago'	chicago	miami	u'Boozer will get amnestied, sign with Miami, &amp; scream SHOOT THAT SHIT WADE  #BeforeMeloSigns'	-0.2
+Tue Jul 08 01:17:48 +0000 2014	None	None	None	fresno	u"all of Fresno's most eligible ratchets are running around Woodward right now like it's their jobs \U0001f602"	0.392857142857
+Tue Jul 08 01:17:48 +0000 2014	None	u'Denver, Colorado'	denver	cheyenne	u'RT @MattMakens247Wx: Severe Thunderstorm Warning for Cheyenne and Kit Carson County until 8:00pm MDT. http://t.co/DIRTrGDf2g #cowx'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	None	None	mesa	u'Los naipes sobre la mesa, me carteo una ilusi\xf3n'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'MNL'	None	miami	u'Danny Granger to Miami???? For real??? :o :o :o'	0.0875
+Tue Jul 08 01:17:48 +0000 2014	None	u'Bel\xe9m'	None	helena	u'como \xe9 bonita esta mulher chamada Helena Ranaldi'	0.0
+Tue Jul 08 01:17:48 +0000 2014	u'elizabeth'	None	None	arlington	u"Pretty upset I didn't get a picture with @JaseDuckman at Arlington today. But I didn't want to bother him.  S/o to him on being awesome"	0.625
+Tue Jul 08 01:17:48 +0000 2014	None	None	None	mesa	u"RT @weheartfroyo: Today's location: 600 Town Center Drive, Costa Mesa, CA 92626  6-9pm. Don't miss out! We are using a special ROOT BEER fo\u2026"	0.116071428571
+Tue Jul 08 01:17:48 +0000 2014	None	u'TH3 M3CCA OF TH3 WO12LD'	None	boston	u'RT @Chris_Broussard: In addition to Dallas &amp; Lakers, Boston also showing interest in Lance Stephenson, source said'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	None	None	austin	u'I still love this!!! ;)\nAustin Mahone - What About Love: http://t.co/7JmxOhXZyL via @YouTube'	0.575520833333
+Tue Jul 08 01:17:48 +0000 2014	None	None	None	new york	u'RT @ShawnMendes: Back to New York tomorra !'	0.0852272727273
+Tue Jul 08 01:17:48 +0000 2014	None	u'With her.'	None	phoenix	u"[Kyle patiently waited in the cold intersection of Illinois, Chicago. It's been two entire years since Phoenix left the + @BashfulRepute"	-0.2
+Tue Jul 08 01:17:48 +0000 2014	None	u'HTX \u2649'	None	houston	u"RT @flawLysss_: \u201c@DVirani97: There is only one way to describe Houston's weather: http://t.co/amEi8fxO4s\u201d"	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'Washington D.C.'	washington	detroit	u'Doubletree Suites By Hilton Detroit Downtown - Fort Shelby Detroit, United States - Hotel... http://t.co/0l9kPUzMOH http://t.co/ubTH9ayoQz'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'England'	None	anaheim	u'I liked a @YouTube video from @fazeclan http://t.co/dAJ5m7ISgN Life of FaZe: MLG Anaheim 2014'	0.6
+Tue Jul 08 01:17:48 +0000 2014	None	None	None	pierre	u'@BrokyBrawks GG le lance Pierre'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	u'Philadelphia, PA'	philadelphia	None	u'RT @jamestyack: Elasticsearch meetup includes a presentation from Wildbit this Wednesday at Indy Hall http://t.co/5J6uumx0OD'	0.0
+Tue Jul 08 01:17:48 +0000 2014	None	None	None	milwaukee	u"@AndradeAdrii @_deysia @mariavaldivia97  &amp;&amp;' she was talking about sluts in Milwaukee"	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	austin	u'RT @SwiftFifthAlbum: AUSTIN DO A FOLLOW SPREE.HE IS ON NOW.\nfriends:did you get his follow?Did austin notice you?\nMe : No..\n@AustinMahone h\u2026'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	u'\u03c0\u03b1me\u03ba'	None	miami	u'RT @BigAssAddicts: Miami girls &gt; http://t.co/2m1t2eNWHI'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	atlanta	u'I never met so many "wana be down" ass bitches til I came to Atlanta! Y\'all gotta #dobetter'	0.152777777778
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	columbia	u'Free Health Informatics MOOC developed by Columbia, Duke, Johns Hopkins, Oregon Health &amp; Science, &amp; UAB http://t.co/5Fl7xYPAWj'	0.25
+Tue Jul 08 01:17:49 +0000 2014	None	u'Outer Space'	None	jackson	u'RT @repjohnlewis: 53 yrs ago today I was released from Parchman Penitentiary after being arrested in Jackson for using "white" restroom htt\u2026'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	chicago	u'Wish I could bring my friends with me to Chicago'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	new york	u'Hope you guys have so so much funnn in New York! \u2764 @sjademusic @tjgibbs1 @alexgibbs_  xx'	0.185227272727
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	jackson	u'Julie Elias singing Michael Jackson is the equivalent to a day spent in alcatraz'	-0.1
+Tue Jul 08 01:17:49 +0000 2014	None	u'Chicago '	chicago	chicago	u'RT @chancetherapper: To live and die in Chicago.'	0.136363636364
+Tue Jul 08 01:17:49 +0000 2014	None	u'San Francisco '	san francisco	los angeles	u'RT @greenhousenyt: More than 120 port truck drivers in Los Angeles and Long Beach begin "indefinitely long" strike. http://t.co/7cWJGvNyQC'	0.133333333333
+Tue Jul 08 01:17:49 +0000 2014	None	u'USA the South'	None	san antonio	u'RT @TeamJodyFloyd: Meet us in SAN ANTONIO! TX Urban Experience: #TEXASALLSTARDJS MEET AND GREET / ARTIST SHOWCASE. JULY9th http://t.co/aNk2\u2026'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	u'MNL PH.'	None	madison	u'RT @Mr_Carterr: Madison is just a friend guys'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	u'Southern California'	None	salem	u'RT @applecross22: I think Kate is hoping Clyde scares Jordan right out of Salem. Kate wants her to run. #Days'	0.242857142857
+Tue Jul 08 01:17:49 +0000 2014	None	u'HAWKVILLE U.S.A'	None	boston	u'RT @Phresh___Money: @LastDaysDH VOTE! 4  #IrregularHeartbeat  @Phresh__Money #MataMusic #Coast2Coast #Boston http://t.co/2b8AUq4UA2'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	u'Seattle, WA'	seattle	phoenix	u'Aaron McDonnell has a show on 07/09/2014 at 08:00 PM @ The Phoenix Saloon in New Braunfels, TX http://t.co/R8Vjf8KE3K #concert'	0.136363636364
+Tue Jul 08 01:17:49 +0000 2014	None	u'Springfield, Illinois'	springfield	jackson	u"RT @Frustrated_Fan: Jackson gave the run right back? I'm shocked...shocked! #Cubs"	0.142857142857
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	new york	u'RT @GreatOldPics: Vertical view of Manhattan, New York, 1944. Photograph by Andreas Feininger. http://t.co/zaL81tNhnJ'	0.136363636364
+Tue Jul 08 01:17:49 +0000 2014	None	u'South Florida'	None	cleveland	u"Cleveland Cavaliers step up their bid to bring LeBron James back by removing owner's scathing letter\nhttp://t.co/iQhtjmVai6"	-0.3
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	chicago	u'RT @RapFavorites: Chicago Artist: Lil Durk vs. Chief Keef http://t.co/MTyuVHWhhb'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	u'Akron, OH'	None	cleveland	u'RT @CLESportsSource: RT "@Cavs365: Broussard on SportsCenter: "Very good" chance LeBron ends up in Cleveland. #Cavs\u201d'	0.91
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	san francisco	u"RT @CapitalOne: You always wanted to see San Francisco Bay, and with Venture's #YesMiles, you can fly any day. http://t.co/pr70NTjZAY"	0.8
+Tue Jul 08 01:17:49 +0000 2014	None	u'Chicago & National Mortgages'	chicago	washington	u'Feathered feat: ancient bird had largest wingspan ever: WASHINGTON (Reuters) - The wandering albatross, a magn... http://t.co/tIKiIy0eTB'	0.0
+Tue Jul 08 01:17:49 +0000 2014	None	None	None	mesa	u"I'm watching the cops harass the kids at a Costa Mesa skatepark because they don't have helmet and\u2026 http://t.co/XpVtPIa9t8"	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'Global'	None	albany	u'Albany Medical Center: Gun Control is a Bioethical Issue\nhttp://t.co/Ul7QVSoeld #bioethx'	-0.05
+Tue Jul 08 01:17:50 +0000 2014	None	None	None	None	u'S .U. nord america la guerra strisciante 9 morti e 60 feriti .... - ANSA.it http://t.co/F3bfxdJ1uh'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'Portland, Oregon.'	portland	seattle	u'@TiffanyPollard missing you! working on some songs for us today. post those sexy pics we took in seattle! xoxo'	0.1875
+Tue Jul 08 01:17:50 +0000 2014	None	u'Connecticut'	None	phoenix	u'RT @MovieMsgs: Harry Potter and The Order of the Phoenix. \u10e6 http://t.co/p0kGND5r1u'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	None	None	fresno	u'fresno\U0001f64c\U0001f64c\U0001f64c\U0001f64c im so excited'	0.375
+Tue Jul 08 01:17:50 +0000 2014	None	None	None	lincoln	u'RT @TheLancetPsych: "A tendency to melancholy is a misfortune, not a fault." Lincoln quoted in Paul Summergrad\'s keynote. #rcpsychic14 http\u2026'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'USA'	None	los angeles	u"RT @PerfPetRescue: Please help CISCO get adopted ASAP. Thank you! We're in Los Angeles. http://t.co/Hz1x9PGA42 2 years old,\u2026 http://t.co/PN\u2026"	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'Worldwide'	None	oakland	u'\u201c@brodiebrazilCSN: Jason Hammel just arrived to Oakland, will start Wednesday for #Athletics http://t.co/PspdXWy4QR\u201d #pleasehammeldonthurtem'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'Rock Hill, SC'	None	charlotte	u'RT @RockHillSCCity: Map showing outage out of Charlotte Ave substation to about 1300 customers. Checking on it. @GrouchosRKH @subguy'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	None	None	miami	u'RT @DT_317: Who said that RT @Talk_NBA_: During the 2014 NBA Finals LeBron led Miami in PPG, RPG, APG, SPG, FG% 3FG%\nBut some idiots still \u2026'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'Masonry District | #BATAT'	None	madison	u"You're cool too, Madison!"	0.4375
+Tue Jul 08 01:17:50 +0000 2014	None	u'Rio de Janeiro'	None	helena	u'Helena Ranaldi n\xe3o pisca. \xc9 estranh\xedssimo.  #EmFamilia'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'Austin, Texas'	austin	austin	u'Dr. Sherry Neyman in Austin MD Magazine \u2013 June 2014:  http://t.co/HMN7EaJiAj'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'Ontario, Canada'	None	los angeles	u"RT @PerfPetRescue: Please help CISCO get adopted ASAP. Thank you! We're in Los Angeles. http://t.co/Hz1x9PGA42 2 years old,\u2026 http://t.co/PN\u2026"	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	None	None	chicago	u"RT @anazaalene: Females from Chicago- models needed. Dm, don't mention me."	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	None	None	riverside	u'RT @GeistGracie: deep cries out, deep cries out to you. we cry out, we cry out to you, Jesus! \U0001f64f I MISS RIVERSIDE SO MUCH &amp; THIS IS STUCK IN\u2026'	0.0666666666667
+Tue Jul 08 01:17:50 +0000 2014	None	u' 6.5.14 '	None	fresno	u'RT @LuluLSG: \U0001f602 #Fresno http://t.co/czhNjprnwC'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'Dallas, TX'	dallas	dallas	u'#Dallas #Job Pursuit Manager/Senior Manager - Office of the CEO - Attest: Dallas Deloitte Services LP is curre... http://t.co/ZZijIUZvym'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	u'toyama'	None	boston	u'RT @LACOSTE: Our #mcm is #BenedictCumberbatch wearing LACOSTE while arriving on the set of his new movie #BlackMass in #Boston http://t.co/\u2026'	0.136363636364
+Tue Jul 08 01:17:50 +0000 2014	None	u'Dallas, TX'	dallas	dallas	u'#Dallas #Job Office of the CEO - National Pursuit Manager - (Proposal Development, Proposal Writing/Management... http://t.co/iPak6B4grO'	0.0
+Tue Jul 08 01:17:50 +0000 2014	None	None	None	None	u'RT @Florencianeeira: Que lindo ma\xf1ana santa \U0001f44c\U0001f44c'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'Puerto Rico'	None	kansas city	u'#MILB- Los Kansas City Royals dejan en libertad al jardinero boricua Ariel Estades.'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'94'	None	charlotte	u"Charlotte sa fais 7 ans j'ai son gilet gris"	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'hawaii'	None	chicago	u'RT @JCULLI: damn 82 ppl shot &amp; 14 killed over the 4th of July weekend in Chicago!!!! Damn wtf man. Niggas need to chill the fuck out!'	-0.5
+Tue Jul 08 01:17:51 +0000 2014	None	None	None	austin	u"RT @camEElahotbello: someone: Austin\n\nLauren:\n\nLauren:  \n\nLauren: \n\nLauren: i just came here to have a good time and i'm honestly feeling s\u2026"	0.65
+Tue Jul 08 01:17:51 +0000 2014	None	u'Dallas, TX'	dallas	dallas	u'#Dallas #Job Pediatric rn plano tx: Plano ...CEO to our local office Directors have open door policies and car... http://t.co/txTSkI51Qw'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'USA'	None	jackson	u'Nobody does buzzkill quite like Edwin Jackson. #Cubs'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'Las Vegas'	las vegas	chicago	u"RT @FistImpression: Dear @BarackObama , People in Chicago are dying..... do something. \n\n                Sincerely, All The Chicagoan's you\u2026"	0.5
+Tue Jul 08 01:17:51 +0000 2014	None	None	None	baltimore	u'#B1G The Baltimore Sun discusses Maryland\'s "new beginning" with the Big Ten Conference.  http://t.co/P8EpKxs4MY'	0.0454545454545
+Tue Jul 08 01:17:51 +0000 2014	u'miramar'	u'Boston Brooklyn South Beach'	None	atlanta	u'Zino From Boston And Aint Even Allowed in Boston aka Chiraq Jr Nigga own Cousin Shot emm Lmfaoooo thats why he in Atlanta Now'	0.6
+Tue Jul 08 01:17:51 +0000 2014	None	u'\xdcT: 40.778709,-73.949023'	None	columbus	u'Columbus Short Get\u2019s Arrested over The Fourth of July\xa0Weekend. http://t.co/qhLv3CTKB2'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'Dallas, TX'	dallas	dallas	u'#Dallas #Job Account Executive - WCAD In Irving - Texas, USA / United States: Irving ...record of quota achiev... http://t.co/szUQ66uXzO'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'Dallas, TX'	dallas	dallas	u'#Dallas #Job Senior Account Executive -Cloud Solutions: Dallas ...managing a 90/120 day sales process/funnel t... http://t.co/PQYMw0cgu9'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	None	None	washington	u'Feathered feat: ancient bird had largest wingspan ever: WASHINGTON (Reuters) - The wandering albatross, a magn... http://t.co/PQgsqBwTXu'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'Los Toldos'	None	None	u'los graffitis  que me mande en lo de la balda locooo jajja , le paso el trapo a Ro\xf1o'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'SOUTH MEXICO CITY'	None	atlanta	u'RT @nokillcoalition: Atlanta, GA - Bradley, in rescue but must have help, \nPLEASE SHARE AND HELP ME FIND BRADLEY SOME HAPPINESS! http://t.c\u2026'	0.875
+Tue Jul 08 01:17:51 +0000 2014	None	u'Cleveland, Ohio'	cleveland	atlanta	u'Market starts tomorrow come see us at AmericasMart Atlanta Bldg. 2 Floor 13, Showroom 1327B. http://t.co/OykZdDeVGI'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	None	None	madison	u"RT @sowhataaron: 'hayes and madison would be so cute' http://t.co/OfyCnpuLGy"	0.5
+Tue Jul 08 01:17:51 +0000 2014	None	u'Roca Casterly '	None	mesa	u'@CraigLanni_ yo puedo hacerlo , soy la reina * rie de su brazo y se sienta presidiendo la mesa dejando un lugar a su lado*'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'Buffalo, NY'	None	san diego	u"@polaroidbaby27 I was thinking about that. They're from San Diego though I just picture maybe being mocked by a 5yo, ha ha!"	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	None	None	frankfort	u'What a sunset in Frankfort tonight! @Kentuckyweather http://t.co/oHzVZg43uz'	0.0
+Tue Jul 08 01:17:51 +0000 2014	None	u'Springfield, MO'	springfield	san antonio	u'@mike_mayers28 retires his 7th straight out with his 4th K to end b5, keeping it tied at 2-2 in San Antonio'	0.2
+Tue Jul 08 01:17:51 +0000 2014	None	u'Recife, Pe'	None	helena	u'Helena vai matar Laerte?? :O  #EmFamilia'	0.05
+Tue Jul 08 01:17:51 +0000 2014	None	u'Centreville Virginia '	None	None	u'RT @jaegersports: If I can throw it 200 ft, I try to throw it 300 ft. I don\'t stop at 120 feet, I throw it as far as I can." - Greg Maddux,\u2026'	0.1
+Tue Jul 08 01:17:51 +0000 2014	None	u'Chicago'	chicago	jackson	u'Cue Edwin Jackson meltdown...'	0.0
