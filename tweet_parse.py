@@ -44,12 +44,14 @@ def find_loc(p1):
 indir = os.getcwd()+"/tweetfiles"
 for root, dirs, filenames in os.walk(indir):
         for f in filenames:
+            f2 = os.path.join(indir,f)
             print f
-            with open(f,"r") as readfile:
+            with open(f2,"r") as readfile:
                 text = readfile.read()
                 data = simplejson.loads(text, cls=ConcatJSONDecoder)
-                
-            with open("parsed_tweets.txt","w") as writefile:
+            g = os.path.join(indir, f+"_parsed.txt")
+            print g
+            with open(g,"w") as writefile:
                 writefile.write("tstamp\tsrc_city_place\tsrc_city_user\tsrc_city\tdest_city\ttweet\tsentiment\n")                
                 for n in range(len(data)):
                     writefile.write(data[n]["created_at"]+"\t") #tstamp
