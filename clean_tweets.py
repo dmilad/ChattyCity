@@ -1,18 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul 21 16:52:10 2014
+Created on Fri Jul 25 11:08:38 2014
 
 @author: Milad
 """
 
-import json
-
 import re
 import simplejson
-from pprint import pprint
 from textblob import TextBlob
-import os
-import time
 from cities import cities_l
 
 #time.strftime('%Y-%m-%d %H:%M:%S', time.strptime(data[n]['created_at'],'%a %b %d %H:%M:%S +0000 %Y'))
@@ -86,33 +81,3 @@ def clean_file(f):
                 curser += len(i)
     
             readfile.seek(curser)
-
-if __name__ == "__main__":
-    indir = os.getcwd()+"/tweetfiles"
-    outdir = os.getcwd()+"/parsedfiles"
-    for root, dirs, filenames in os.walk(indir):
-        for fil in filenames:
-            f = os.path.join(indir,fil)
-            curser = 0  
-            count = 0 #count number of tweets
-            middle = True
-            with open(f,"r") as readfile:
-                g = os.path.join(outdir, fil+"_parsed.txt")
-                with open(g, "w") as writefile:
-                    writefile.write("tstamp\tsrc_city_place\tsrc_city_user\tsrc_city\tdest_city\ttweet\tsentiment\n")
-                while middle:
-                    text = readfile.read(500000)
-                    ret = ['{'+x+'}' for x in text.strip('{}').split('}{')]
-                    if len(ret) > 1:
-                        ret.pop()
-                    else:
-                        middle = False
-                    for i in ret:
-                        parse(g, i)
-                        count += 1
-                        curser += len(i)
-            
-                    readfile.seek(curser)
-            
-            print count
-
