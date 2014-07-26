@@ -33,9 +33,8 @@ def main():
             worklist.append(i)
     
     for textfile in worklist:
-        with open("cleaning_logfile.txt","a") as logfile:
-        key = bucket.get_key("input/%s"%textfile)
-        
+        key = bucket.get_key("input/%s"%textfile)      
+    
     #download file to local directory. name will be same as what it is on S3
         key.get_contents_to_filename(textfile)
         # write to log file
