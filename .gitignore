@@ -1,5 +1,5 @@
 tweetfiles/
 parsedfiles/
-parse2.py
-aws_milad_keys.py
-aws_milad_keys.pyc
+test_ignore/
+datacleaner/aws_milad_keys.py
+datacleaner/aws_milad_keys.pyc
