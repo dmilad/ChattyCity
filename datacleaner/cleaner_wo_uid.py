@@ -7,7 +7,7 @@ Created on Wed Jul 23 18:07:37 2014
 from aws_milad_keys import *
 from boto.s3.connection import S3Connection
 import os
-import clean_tweets
+import clean_tweets_wo_uid
 from time import ctime
 
 def main():
@@ -33,8 +33,8 @@ def main():
             worklist.append(i)
     
     #split in half
-    #worklist = worklist[:len(w)/2]
-    #worklist = worklist[len(w)/2:]
+    #worklist = worklist[:len(worklist)/2]
+    #worklist = worklist[len(worklist)/2:]
     
     log = "cleaning_logfile2.txt"    
     
@@ -49,7 +49,7 @@ def main():
     
     #clean file: create a new file named "clean" concatenated to beginning. go
     #through file and parse json objects to tab delimited format
-        clean_tweets.clean_file(textfile)
+        clean_tweets_wo_uid.clean_file(textfile)
         cleantextfile = "clean%s"%textfile
         #write to log file
         with open(log,"a") as logfile:

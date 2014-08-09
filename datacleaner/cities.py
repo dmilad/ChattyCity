@@ -22,12 +22,15 @@ cities_ln = ['montgomery', 'juneau', 'phoenix', 'littlerock', 'sacramento', 'den
 
 cities_filter = ['Montgomery,Juneau,Phoenix,Little Rock,Sacramento,Denver,Hartford,Dover,Tallahassee,Atlanta,Honolulu,Boise,Springfield,Indianapolis,Des Moines,Topeka,Frankfort,Baton Rouge,Augusta,Annapolis,Boston,Lansing,Saint Paul,Jackson,Jefferson City,Helena,Lincoln,Carson City,Concord,Trenton,Santa Fe,Albany,Raleigh,Bismarck,Columbus,Oklahoma City,Salem,Harrisburg,Providence,Columbia,Pierre,Nashville,Austin,Salt Lake City,Montpelier,Richmond,Olympia,Charleston,Madison,Cheyenne,New York,Los Angeles,Chicago,Houston,Philadelphia,San Antonio,San Diego,Dallas,San Jose,Jacksonville,San Francisco,Charlotte,Fort Worth,Detroit,El Paso,Memphis,Seattle,Washington,Baltimore,Louisville,Portland,Las Vegas,Milwaukee,Albuquerque,Tucson,Fresno,Long Beach,Kansas City,Mesa,Virginia Beach,Colorado Springs,Omaha,Miami,Oakland,Minneapolis,Tulsa,Cleveland,Wichita,Arlington,New Orleans,Bakersfield,Tampa,Aurora,Anaheim,Santa Ana,St. Louis,Riverside,Corpus Christi,Lexington,Pittsburgh']
 
-sf = ['san francisco,sf']
+cities_nn = {"ny": "new york", "nyc": "new york", "chitown": "chicago", "chi town": "chicago", "philly": "philadelphia", "hotlanta": "atlanta", "vegas": "las vegas", "sactown": "sacramento", "sf": "san francisco", "san fran": "san francisco", "frisco": "san francisco", "oaktown": "oakland", "nawlins": "new orleans", "nola": "new orleans"}
+
+la_nn = {"la": "los angeles"}
 
 #need a list of short city names: ex. sf
 
 cities.sort()
 a = cities
+
 """
 cities = open("top_100_cities.txt","r")
 top_cities_pop = []
@@ -75,11 +78,11 @@ with open("cities_quad.txt","r") as readfile:
         cities_quad.append(line.split(","))
 
 quad_dict = {"NE": 1, "SE": 2, "SW": 3, "NW": 4}
-cities_o = sorted(cities_quad, key=lambda word: [quad_dict[c] for c in word[1].rsplit()])
+cities_o = sorted(cities_quad, key=lambda word: [quad_dict[c] for c in word[2].rsplit()])
 
 
 with open("ordered_cities.txt","w") as writefile:
     for i in cities_o:    
-        writefile.write(str(i[0])+","+str(i[1]))
+        writefile.write(str(i[0])+","+str(i[1])+","+str(i[2]))
 
 """

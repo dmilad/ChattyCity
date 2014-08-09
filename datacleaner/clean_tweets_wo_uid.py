@@ -45,7 +45,7 @@ def find_loc(p1):
             return "los angeles"
     return "None"
 
-def parse(g, data, uid):
+def parse(g, data):
     try:
         data = simplejson.loads(data, cls=ConcatJSONDecoder)
         n = 0
@@ -55,8 +55,7 @@ def parse(g, data, uid):
             hashtags = " ".join(re.findall(r"#([\w]+)", tweet))
             if hashtags == "":
                 hashtags = "None"
-            writefile.write(str(uid)+"\t"+hashtags+"\t")
-            uid += 1
+            writefile.write(hashtags+"\t")
                
             dt = time.strptime(data[n]["created_at"], '%a %b %d %H:%M:%S +0000 %Y') # reformat date
             writefile.write(time.strftime('%Y-%m-%dT%H:%M:%S.000Z',dt)+"\t") #tstamp
@@ -75,23 +74,16 @@ def parse(g, data, uid):
 
     except:
         pass
-    
-    return uid
 
 def clean_file(f):
     curser = 0  
     count = 0 #count number of tweets
     middle = True
     
-    with open("max_id_count2.txt","r") as idc:
-        uid = idc.readline()
-    
-    uid = int(uid) + 1    
-    
     with open(f,"r") as readfile:
         g = "clean"+f
         with open(g, "w") as writefile:
-            writefile.write("uid\thashtags\tstamp\tsrc_city_place\tsrc_city_user\tsrc_city\tdest_city\ttweet\tsentiment\n")
+            writefile.write("hashtags\tstamp\tsrc_city_place\tsrc_city_user\tsrc_city\tdest_city\ttweet\tsentiment\n")
         while middle:
             text = readfile.read(500000)
             ret = ['{'+x+'}' for x in text.strip('{}').split('}{')]
@@ -100,14 +92,12 @@ def clean_file(f):
             else:
                 middle = False
             for i in ret:
-                uid = parse(g, i, uid)
+                parse(g, i)
                 count += 1
                 curser += len(i)
     
             readfile.seek(curser)
-            
-    with open("max_id_count.txt","w") as idc:
-        idc.write(str(uid-1))
+
 
 if __name__ == "__main__":
     pass
